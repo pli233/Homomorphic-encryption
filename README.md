@@ -20,14 +20,6 @@ pip install -r requirements.txt
 python demo.py
 ```
 
-The demo will show:
-- Basic protocol usage
-- Step-by-step protocol execution
-- Privacy property explanations
-- Polynomial mathematics
-- Batch query processing
-- Performance analysis
-
 ## License
 
 MIT License
