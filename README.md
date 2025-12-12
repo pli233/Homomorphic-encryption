@@ -17,7 +17,7 @@ This project implements a protocol where:
 pip install -r requirements.txt
 
 # Run the demo
-python examples/demo.py
+python demo.py
 ```
 
 The demo will show:
